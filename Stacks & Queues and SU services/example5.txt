@@ -1,0 +1,5 @@
+If you want to open a service (function) defining file,
+then press (Y/y) for 'yes', otherwise press any single key
+y
+Enter the input file name: input1
+Could not open the file input1

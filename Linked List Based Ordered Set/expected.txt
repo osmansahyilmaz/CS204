@@ -1,0 +1,9 @@
+LinkedListSet{1, 2, 3, 17, }
+LinkedListSet{1, 3, 17, }
+LinkedListSet{3, 4, 5, }
+LinkedListSet{1, 3, 4, 5, 7, 17, 19, }
+LinkedListSet{3, 4, 7, 17, 41, }
+LinkedListSet{7, 19, 37, 41, }
+LinkedListSet{1, 3, 4, 5, 7, 17, 19, }
+LinkedListSet{1, 5, 19, }
+LinkedListSet{19, }
